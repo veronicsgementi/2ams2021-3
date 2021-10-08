@@ -46,7 +46,7 @@
     
         if ($_GET) {
         
-            //Rcebe dados do formulário
+            //Rcebe dados do formulário da pessoa
             $nome=$_GET['txtnome'];
             $salfixo=$_GET['txtsalfixo'];
             $vendas=$_GET['txtvendas'];
